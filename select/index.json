@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "喜怒哀楽",
+  "base_artist": "トンボコープ",
+  "createdAt": "2026-02-14T10:38:39.349988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "喜怒哀楽 plus 愛",
+      "artist": "木村カエラ",
+      "has_synced": true,
+      "path": "select/01_喜怒哀楽_plus_愛_木村カエラ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "喜怒哀楽",
+      "artist": "トンボコープ",
+      "has_synced": false,
+      "path": "select/pl_01_喜怒哀楽_トンボコープ.txt"
+    }
+  ]
+}
